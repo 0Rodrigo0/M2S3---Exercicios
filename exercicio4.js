@@ -1,11 +1,6 @@
-var varialvel;
-
-function tipo(variavel) {
-  if (variavel == true) {
-    console.log("É boleano");
-  } else {
-    console.log("Não é boleano");
-  }
+function tipo1(variavel) {
+  console.log(variavel);
+  console.log(typeof variavel);
 }
 
-tipo(true);
+tipo1("oi");
