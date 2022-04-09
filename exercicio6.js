@@ -3,4 +3,4 @@ function temperatura(temp) {
   console.log(novaTemp);
 }
 
-temperatura(100);
+temperatura(89);
